@@ -63,7 +63,6 @@ public class WeatherActivity extends AppCompatActivity {
         weatherTranslations.put("thunderstorm", "гроза");
         weatherTranslations.put("snow", "сніг");
         weatherTranslations.put("mist", "туман");
-        // Додайте інші переклади, якщо необхідно
     }
 
     private void getWeatherData(String cityName) {
