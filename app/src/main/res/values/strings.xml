@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeatherMate</string>
+    <string-array name="cities_array">
+        <item>Kyiv</item>
+        <item>Kharkiv</item>
+        <item>Odesa</item>
+        <item>Dnipro</item>
+        <item>Zaporizhzhia</item>
+        <item>Lviv</item>
+        <item>Kryvyi Rih</item>
+        <item>Mykolaiv</item>
+        <item>Mariupol</item>
+        <item>Vinnitsa</item>
+        <item>Kherson</item>
+        <item>Chernihiv</item>
+        <item>Poltava</item>
+        <item>Cherkasy</item>
+        <item>Khmelnytskyi</item>
+        <item>Zhytomyr</item>
+        <item>Sumy</item>
+        <item>Chernivtsi</item>
+        <item>Rivne</item>
+        <item>Ivano-Frankivsk</item>
+    </string-array>
+    <string name="buttonNext">Далі</string>
+    <string name="selectСityButton">Виберіть місто</string>
+
+</resources>
